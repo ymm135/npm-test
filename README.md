@@ -35,6 +35,7 @@ npm test
 
 ## 测试
 ### ipfs-http-client
+[官方地址](https://github.com/ipfs/js-ipfs/tree/master/packages/ipfs-http-client)  
 安装依赖
 ```sh
 npm install --save ipfs-http-client
